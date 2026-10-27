@@ -12,30 +12,26 @@ Explore the application's interface and its key features below.
 
 <img width="1352" height="1079" alt="Screenshot 2026-10-27 200018" src="https://github.com/user-attachments/assets/d15c7448-daef-454c-8519-b4fe16585a4a" />
 
+
 ### 👑 Golden User Dashboard
 
 <img width="1731" height="2616" alt="Screenshot_27-10-2026_193525_127 0 0 1" src="https://github.com/user-attachments/assets/6f780850-26be-45a9-a5a6-5037c00765c7" />
 
 
-![Golden User Dashboard](screenshots/golden-user-dashboard.png)
-
 ### 🎬 Content Creator Dashboard
 
-<!-- TODO: Upload your Content Creator dashboard screenshot here -->
+<img width="1322" height="1079" alt="image" src="https://github.com/user-attachments/assets/213c015c-4575-4caa-8e01-946bc3db20bd" />
 
-![Content Creator Dashboard](screenshots/content-creator-dashboard.png)
 
 ### 🛡️ Admin Dashboard
 
-<!-- TODO: Upload your Admin dashboard screenshot here -->
+<img width="1731" height="2355" alt="Screenshot_27-10-2026_193755_127 0 0 1" src="https://github.com/user-attachments/assets/f48c7875-5409-4de6-aee5-4e6240a7b391" />
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
 
-### 📺 OTT Platform Integration
+### 📺 Browse by OTT Platform 
 
-<!-- TODO: Upload your OTT platform screenshot here -->
+<img width="1334" height="1079" alt="image" src="https://github.com/user-attachments/assets/5417089b-68ad-4f4d-a5d8-2b18624fb96e" />
 
-![OTT Platform Integration](screenshots/ott-platforms.png)
 
 ---
 
